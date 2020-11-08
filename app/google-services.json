@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "655977750709",
+    "firebase_url": "https://developers-kit-e6969.firebaseio.com",
+    "project_id": "developers-kit-e6969",
+    "storage_bucket": "developers-kit-e6969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655977750709:android:aa14d75707aa7e2baedefc",
+        "android_client_info": {
+          "package_name": "com.trioglobe.developers_kit_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655977750709-n7a40il10v5kcbak1th6pce0nui82v41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjPuvLQL9YsZwD2VBUX_sIO5gDLYUQL0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655977750709-n7a40il10v5kcbak1th6pce0nui82v41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
